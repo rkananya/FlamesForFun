@@ -49,6 +49,9 @@ FLAMES is a fun and nostalgic relationship compatibility game that determines th
 - Understanding of **string manipulation** and **basic algorithms**
 - Application of **control structures** (loops, conditions)
 - Implementation of a **fun, interactive logic-based program**
+- Ability to take real life fun to digital as Well
+- This is a proccessed and well structured algorithm.
+- So needn't be scared for your delulu it gives the logically correct answer!
 
 ##  Future Enhancements
 - GUI version using Java Swing
@@ -68,4 +71,4 @@ Enjoy playing FLAMES and relive the childhood fun! 🎉
 ## IN JAVA:
 ![Screenshot 2025-02-08 183307](https://github.com/user-attachments/assets/ce10f7f4-cb89-4865-822e-0c4b82e8967f)
 
-THANKS FOR VISITIMG!
+THANKS FOR VISITING!
