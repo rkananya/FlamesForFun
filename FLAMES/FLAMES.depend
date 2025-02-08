@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712237966 source:c:\users\anany\onedrive\desktop\codeblocks\filehand\flames\main.c
+	<stdio.h>
+	<string.h>
+
