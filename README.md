@@ -5,7 +5,7 @@ FLAMES is a fun and nostalgic relationship compatibility game that determines th
 
 ## Tech Stack
 - **C**: Console-based implementation
-- **Java**: GUI-based implementation (if applicable)
+- **Java**: GUI-based implementation
 
 ## How It Works
 1. The user enters two names.
